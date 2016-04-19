@@ -7,7 +7,7 @@ echo "|                     One Click Of WRF Installation                      |
 echo "+------------------------------------------------------------------------+"
 echo "|            A tool to auto-compile & install WRF on Linux               |"
 echo "+------------------------------------------------------------------------+"
-echo "|            Author: Jarvis Song  Email: haptou@gmail.com                |"
+echo "|            Author: Jarvis  Email: jarvis.daisy@gmail.com               |"
 echo "+------------------------------------------------------------------------+"
 
 # Check if user is root

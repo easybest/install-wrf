@@ -12,3 +12,8 @@ If you want to compile step by step yourself, you can under this instruction on 
 sh install.sh
 ```
 And just enjoy it!
+
+
+## Has a question?
+
+Record a issue to me.

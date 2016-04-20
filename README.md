@@ -18,4 +18,4 @@ And just enjoy it!
 
 Record a issue to me.
 
-Thanks Dr. Zhu for providing guidance document.
+Thanks Dr. ZHU for providing guidance document.

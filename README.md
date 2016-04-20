@@ -17,3 +17,5 @@ And just enjoy it!
 ## Has a question?
 
 Record a issue to me.
+
+Thanks Dr. Zhu for providing guidance document.
